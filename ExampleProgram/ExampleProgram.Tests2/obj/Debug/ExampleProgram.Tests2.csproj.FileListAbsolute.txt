@@ -1,0 +1,9 @@
+c:\users\markr.aqua\Documents\Visual Studio 2013\Projects\ExampleProgram\ExampleProgram.Tests2\bin\Debug\ExampleProgram.Tests2.dll
+c:\users\markr.aqua\Documents\Visual Studio 2013\Projects\ExampleProgram\ExampleProgram.Tests2\bin\Debug\ExampleProgram.Tests2.pdb
+c:\users\markr.aqua\Documents\Visual Studio 2013\Projects\ExampleProgram\ExampleProgram.Tests2\bin\Debug\nunit.framework.dll
+c:\users\markr.aqua\Documents\Visual Studio 2013\Projects\ExampleProgram\ExampleProgram.Tests2\obj\Debug\ExampleProgram.Tests2.csprojResolveAssemblyReference.cache
+c:\users\markr.aqua\Documents\Visual Studio 2013\Projects\ExampleProgram\ExampleProgram.Tests2\obj\Debug\ExampleProgram.Tests2.dll
+c:\users\markr.aqua\Documents\Visual Studio 2013\Projects\ExampleProgram\ExampleProgram.Tests2\obj\Debug\ExampleProgram.Tests2.pdb
+c:\users\markr.aqua\Documents\Visual Studio 2013\Projects\ExampleProgram\ExampleProgram.Tests2\bin\Debug\ExampleProgram.exe
+c:\users\markr.aqua\Documents\Visual Studio 2013\Projects\ExampleProgram\ExampleProgram.Tests2\bin\Debug\ExampleProgram.pdb
+c:\users\markr.aqua\Documents\Visual Studio 2013\Projects\ExampleProgram\ExampleProgram.Tests2\bin\Debug\Moq.dll
